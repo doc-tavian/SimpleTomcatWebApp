@@ -1,3 +1,4 @@
+[![Build Status](https://semaphoreci.com/api/v1/projects/efa3c4aa-c017-4fd9-8d82-d0d47de87e2c/576264/badge.svg)](https://semaphoreci.com/doctavian/simpletomcatwebapp)
 # SimpleTomcatWebApp
 
 This simple example shows you how to deploy a simple tomcat war file using Distelli.
